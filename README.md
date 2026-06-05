@@ -159,14 +159,7 @@ car_color_detection/
    - Close other applications
    - Use smaller YOLO model (already using nano)
 
-## Future Enhancements
 
-- [ ] Add support for video files
-- [ ] Implement GPU acceleration
-- [ ] Add more color categories
-- [ ] Export results to CSV/JSON
-- [ ] Add traffic flow analysis
-- [ ] Multi-camera support
 
 ## License
 
